@@ -1,0 +1,28 @@
+strong {
+    color: darkred;
+}
+
+html {
+    background-color: lightpink;
+}
+
+img {
+    float: right;
+    width: 200px;
+    border-radius: 40%;
+}
+
+h1 {
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h2 {
+    color: lightcoral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+
+h3 {
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
